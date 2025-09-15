@@ -1,4 +1,7 @@
 API_ID = 
+
 API_HASH = 
+
 API_TOKEN = 
+
 APYHUB_TOKEN = 
